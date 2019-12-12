@@ -128,3 +128,5 @@ venv_ML/
 
 # vs code
 .vscode/
+
+clf_data/

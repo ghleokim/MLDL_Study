@@ -1,0 +1,42 @@
+first we learned basic concepts of ai/ml 
+first different traditional algorithm and ai/ml
+traditional algorithm is deterministic algorithm that is same input same output
+but ai/ml is non deterministic algorithm for train model. and trained model is deterministic
+
+and problem that ai/ml solve
+first classification is select class for example, cancer/no cancer, dog/cat
+next, regression solve problem with continuous value for example house price
+and Game for example go, chess, pac-man et cetera
+
+next we learned basic ml pipeline/workflow
+first, load data
+next preprocessing,
+in preprocessing we can do normalization/ standardization, so we can ignore units
+and handle missing values for example delete row, take mean ..et cetera (etc)
+next EDA(exploratry data analysis)/visualization
+next feature engineering
+next split data into train, test, validation data
+in here we can do k-fold cross validation
+next Train model with train data
+in this step we can see overfitting or underfitting
+then we can go back to preprocessing, feature engineering, modify model, 
+modfiy hyper parameters to make a better model
+next Evaluate model with test data
+but score is bad we can repeat pipeline
+
+we learned different algorithms in ai/ml
+supervised, unsupervised, semi-supervised, reinforcement
+in supervised, put input data, expected output
+in unsupervised put only input data
+in semi-supervised put both input expected output and input data only
+in reinforcement put input data expected output and using feedback loop
+
+in supervised learning
+in classification you can use logisitc regression 
+in regression you can use linear regression and polynomial regression
+for decision tree, random forest, SVM you can use in both problems
+for deep learning there is FFNN and CNN 
+and theres many more 
+
+then ?? will take it from here
+
